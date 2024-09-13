@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\ntier arch\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46D711C4-23FC-4A49-8B14-3283D4956482}|Core\\Core.csproj|c:\\users\\user\\desktop\\ntier arch\\task1\\core\\constants\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D711C4-23FC-4A49-8B14-3283D4956482}|Core\\Core.csproj|solutionrelative:core\\constants\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D711C4-23FC-4A49-8B14-3283D4956482}|Core\\Core.csproj|c:\\users\\user\\desktop\\ntier arch\\task1\\core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D711C4-23FC-4A49-8B14-3283D4956482}|Core\\Core.csproj|solutionrelative:core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D711C4-23FC-4A49-8B14-3283D4956482}|Core\\Core.csproj|c:\\users\\user\\desktop\\ntier arch\\task1\\core\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D711C4-23FC-4A49-8B14-3283D4956482}|Core\\Core.csproj|solutionrelative:core\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ntier arch\\Task1\\Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ntier arch\\Task1\\Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:26:14.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ntier arch\\Task1\\Core\\Entities\\Group.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Group.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ntier arch\\Task1\\Core\\Entities\\Group.cs",
+              "RelativeToolTip": "Core\\Entities\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:26:00.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ntier arch\\Task1\\Core\\Constants\\Operations.cs",
+              "RelativeDocumentMoniker": "Core\\Constants\\Operations.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ntier arch\\Task1\\Core\\Constants\\Operations.cs",
+              "RelativeToolTip": "Core\\Constants\\Operations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:24:58.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
